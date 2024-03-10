@@ -1,5 +1,5 @@
 // import { useState } from 'react'
-import home_image from '../images/albedo.png';
+import home_image from '../images/waifu.gif';
 
 function Home() {
 
