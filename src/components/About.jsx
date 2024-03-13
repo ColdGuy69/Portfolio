@@ -1,4 +1,4 @@
-import about_image from '../images/shinobu.png';
+import about_image from '../images/rolling.gif';
 
 function About() {
 
