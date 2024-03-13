@@ -72,7 +72,7 @@ function Projects() {
 
             This is my website, created to serve as the <b><span>website for getting the source code from my youtube channel for the Discord bot Tutorial</span></b>. Through this website, visitors can login, find codes, and easily locate contact details for further inquiries.<br /><br />
 
-            Built with: <span>HTML</span> | <span>CSS</span> | <span>Bootstrap</span>
+            Built with: <span>HTML</span> | <span>CSS</span> | <span>Javascript (React)</span>
           </div>  
         </div>
       </div>
