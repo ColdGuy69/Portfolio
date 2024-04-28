@@ -13,10 +13,7 @@ function Home() {
         Avid Anime watcher</span> &<span><br />
         Manga/Light Novel reader</span></b>
       </div>
-
-      <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-64347529-b92b-41cb-a10d-c0a450d5414e" data-elfsight-app-lazy></div>
-
+      
       <div className='home-introduction-wrapper'>
         <img src={home_image} className='home-introduction-image' />
 
