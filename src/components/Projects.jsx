@@ -3,6 +3,7 @@ import project1_image from '../images/samstree.png';
 import project2_image from '../images/bluearchive.png';
 import project3_image from '../images/my-website.png';
 import project4_image from '../images/homepage.png';
+import project5_image from '../images/sam-os.png';
 
 function Projects() {
 
@@ -61,7 +62,20 @@ function Projects() {
             <b><span>Sam's Tree</span></b> is a web application like Link tree where u can create ur own page by signing using google. The user can view other users links. You can <span>edit</span> your profile <span>bio</span> and add <span>links</span> too.<br /><br /><br /><br />
 
             Built with: <span>Svelte</span> | <span>Typescript</span> | <span>Javascript</span>
-          </div> 
+          </div>
+
+            <div className="project">
+            <img src={project5_image} />
+
+            <div className='project-links'>
+              <a href="https://github.com/KirixenYT/sam-os" target="_blank">Code</a>
+              <a href="https://sams-os.vercel.app/" target="_blank">Demo</a>
+            </div>
+
+            This is a <span><b>os looking thing</b></span> where it looks like mostly os of windows/chrome-os etc. Additionally, it serves as a platform to share other stuff that is inside the website.<br /><br />
+
+            Built with: <span>HTML</span> | <span>CSS</span> | <span>Javascript</span> | <span>Svelte</span>
+          </div>
 
           <div className="project">
             <img src={project0_image} />
