@@ -4,12 +4,27 @@ import project2_image from '../images/bluearchive.png';
 import project3_image from '../images/my-website.png';
 import project4_image from '../images/homepage.png';
 import project5_image from '../images/sam-os.png';
+import project6_image from '../images/animixplay.png';
+
 
 function Projects() {
 
     return (
       <div className='projects'>
         <div className='projects-title'>My Coding Projects</div>
+
+        <div className='projects-wrapper'>
+          <div className="project">
+            <img src={project6_image} />
+
+            <div className='project-links'>
+              <a href="https://github.com/KirixenYT/animixplay" target="_blank">Code</a>
+              <a href="http://animixplay.great-site.net/?p=recent" target="_blank">Demo(old code)</a>
+            </div>
+
+            This is a <span><b>clone of animixplay, created for the memories</b></span>, further you watch animes, kdrama, movies, hentai and read manga on here. This program different <span>API</span> for getting the animes, k-drama, movies, manga, hentai and the <span>details</span> for each of them.<br /><br /><br />
+            Built with: <span>Php, html, css, javascript</span>
+          </div> 
 
         <div className='projects-wrapper'>
           <div className="project">
