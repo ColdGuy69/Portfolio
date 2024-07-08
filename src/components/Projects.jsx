@@ -15,19 +15,6 @@ function Projects() {
 
         <div className='projects-wrapper'>
           <div className="project">
-            <img src={project6_image} />
-
-            <div className='project-links'>
-              <a href="https://github.com/KirixenYT/animixplay" target="_blank">Code</a>
-              <a href="http://animixplay.great-site.net/?p=recent" target="_blank">Demo(old code)</a>
-            </div>
-
-            This is a <span><b>clone of animixplay, created for the memories</b></span>, further you watch animes, kdrama, movies, hentai and read manga on here. This program different <span>API</span> for getting the animes, k-drama, movies, manga, hentai and the <span>details</span> for each of them.<br /><br /><br />
-            Built with: <span>Php, html, css, javascript</span>
-          </div> 
-
-        <div className='projects-wrapper'>
-          <div className="project">
             <img src={project4_image} />
 
             <div className='project-links'>
@@ -38,6 +25,20 @@ function Projects() {
             This is a <span><b>clone of gogoanime, improved version of it</b></span>, further you watch animes on here. This program uses a <span>API</span> for getting the animes and the <span>details</span>.<br /><br /><br />
             Built with: <span>Php</span>
           </div> 
+
+        <div className="project">
+            <img src={project6_image} />
+
+            <div className='project-links'>
+              <a href="https://github.com/KirixenYT/animixplay" target="_blank">Code</a>
+              <a href="http://animixplay.great-site.net/" target="_blank">Demo(old code)</a>
+            </div>
+
+            This is a <span><b>clone of animixplay, created for the memories</b></span>, further you watch animes, kdrama, movies, hentai and read manga on here. This program different <span>API</span> for getting the animes, k-drama, movies, manga, hentai and the <span>details</span> for each of them.<br /><br /><br />
+            Built with: <span>Php, html, css, javascript</span>
+            
+          </div>
+
 
           <div className="project">
             <img src={project3_image} />
