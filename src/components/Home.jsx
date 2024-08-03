@@ -7,7 +7,7 @@ function Home() {
     <div className='home'>
       <div className='home-welcome-message'>
         Hi There!<br />
-        I'm <span><b>Sam</b></span><br /><br />
+        I'm <span><b>Dash</b></span><br /><br />
 
         <b><span>Newbie Coder<br />
         Avid Anime watcher</span> &<span><br />
